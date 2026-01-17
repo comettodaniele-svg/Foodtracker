@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "food-tracker",
+    "slug": "food-tracker"
+  },
+  "dependencies": {
+    "expo": "~48.0.0",
+    "expo-image-picker": "~14.0.1",
+    "react": "18.0.0",
+    "react-native": "0.71.0"
+  }
+}
